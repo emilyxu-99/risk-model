@@ -1,5 +1,5 @@
 # risk-model
-R shiny risk modelling
+Create an interactive dashboard that visualizes individual risk of severe disease/death from COVID-19 trial vaccines with comparable activities. Risk of death is quantified in micromorts: a unit defined as a one-in-a-million chance of death.
 
 See the full dashboard at 
 
